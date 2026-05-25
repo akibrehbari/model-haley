@@ -55,7 +55,7 @@ export const metadata = {
   openGraph: {
     title: model.name,
     description: model.description,
-    images: [`/models/${model.username}/IMG_0104.JPG`],
+    images: ['/og-image.jpg'],
   },
 };
 
